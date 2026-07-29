@@ -3,6 +3,10 @@
 ## 💻 About Me
   🎓 BSc (Hons) in Information Technology (Undergraduate)
 
+## 🚀 Current Focus
+- 💻 Building Full Stack Projects
+- 🤝 Contributing to Open Source
+
   
 # 💻 Tech Stack
 
